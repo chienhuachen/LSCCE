@@ -1,2 +1,2 @@
 # LSCCE
-linearly scored categorical cross-entropy
+Linearly scored categorical cross-entropy
